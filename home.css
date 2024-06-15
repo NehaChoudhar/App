@@ -1,0 +1,18 @@
+body {
+    background: rgb(158, 139, 142);
+}
+
+h1 {
+   text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+ul {
+    color: rgb(49, 45, 45);
+    font-size: 20px;
+    
+    justify-content: space-between;
+    align-items: center;
+}
